@@ -37,11 +37,15 @@ I'm driven by engineering machine learning that is reliable, reproducible, and g
 ### 🏆 IntelliShift — End-to-End Data Platform · *1st place, Data Intelligence Track*
 A complete, production-style analytics platform that carries raw data through modeling, orchestration, and validation to polished, business-facing dashboards. The project unifies data engineering, workflow automation, and analytics into a single cohesive system.
 
+My contribution: Co-architected the end-to-end data flow with the team, and built the OLTP and OLAP (star-schema) layers along with the Apache Airflow orchestration.
+
 `Python` · `Airflow` · `Docker` · `SQL` · `Power BI`
 **[View repository →](https://github.com/yahianassar2005/Intellij-Hackathon)**
 
 ### 🏆 Arabic Aspect-Based Sentiment Analysis · *4th place, National Arabic NLP Hackathon*
 An end-to-end Arabic natural-language-processing pipeline for aspect-based sentiment analysis, built around fine-tuned transformer models and designed to handle the nuances of real-world Arabic text. Recognized among the top entries in a national competition.
+
+My contribution: Led the NLP solution end-to-end, data preprocessing, model architecture and implementation, and the Streamlit inference interface.
 
 `Python` · `PyTorch` · `Transformers` · `NLP`
 **[View repository →](https://github.com/yahianassar2005/DeepX-Hackathon)**
