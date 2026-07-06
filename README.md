@@ -13,11 +13,11 @@
 
 I'm a final-year Computer Science student building machine-learning systems that are meant to run in the real world — not just in a notebook. My work spans **NLP and RAG systems**, **anomaly detection**, and the **data-engineering and MLOps** that make models deployable and maintainable. I care a lot about evaluation rigor: measuring what actually generalizes, not just what scores well on a random split.
 
-I'm especially interested in **Arabic / MENA-focused NLP** and in the infrastructure side of ML — pipelines, orchestration, and reliable deployment.
+I'm especially interested in **NLP** and in the infrastructure side of ML — pipelines, orchestration, and reliable deployment.
 
 - 🔭 Working toward a career in **AI Engineering, MLOps, and Data Engineering**
 - 🌱 Currently going deeper into **cloud deployment, orchestration (Airflow), and containerized ML**
-- 💬 Ask me about **RAG pipelines, retriever/reranker architectures, or Arabic NLP**
+- 💬 Ask me about **RAG pipelines, retriever/reranker architectures, or NLP**
 
 ---
 
