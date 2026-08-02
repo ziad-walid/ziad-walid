@@ -34,6 +34,14 @@ I'm driven by engineering machine learning that is reliable, reproducible, and g
 
 ## Featured Projects
 
+### 📊 sec-intel — Financial-Intelligence over SEC 10-K Filings · *Capgemini I&D internship capstone*
+An end-to-end system that answers questions over SEC 10-K filings, pairing a governed Databricks data pipeline with a retrieval-augmented AI agent joined by a single gold-parquet contract. A medallion lakehouse (bronze → silver → gold, orchestrated as a Job DAG) feeds a LangGraph agent that routes each question to hybrid retrieval (dense + BM25 + reranking), a LightGBM forecast with honest uncertainty intervals, on-demand Plotly visualizations, or a responsible-AI decline — with cited answers and abstention when unsupported.
+
+My contribution: My RAG implementation served as the project's foundation, on which the team built. I developed the core retrieval-and-generation agent and contributed to the Databricks medallion pipeline. *(Team-added: retrieval grading, financial analysis, and going-concern detection.)*
+
+`Python` · `Databricks` · `PySpark` · `LangGraph` · `Chroma` · `FastAPI` · `Streamlit` · `MLflow` · `LightGBM` · `Plotly`
+**[View repository →](https://github.com/ziad-walid/sec-intel)**
+
 ### 🏆 IntelliShift — End-to-End Data Platform · *1st place, Data Intelligence Track*
 A complete, production-style analytics platform that carries raw data through modeling, orchestration, and validation to polished, business-facing dashboards. The project unifies data engineering, workflow automation, and analytics into a single cohesive system.
 
@@ -68,9 +76,9 @@ An end-to-end supervised-learning project for cardiovascular risk assessment, co
 
 **Programming Languages** &nbsp;·&nbsp; Python · Java · C++ · SQL
 
-**Frameworks & Libraries** &nbsp;·&nbsp; FastAPI · TensorFlow · Keras · PyTorch · Hugging Face Transformers · Scikit-learn · NumPy · Pandas · Matplotlib
+**Frameworks & Libraries** &nbsp;·&nbsp; FastAPI · TensorFlow · Keras · PyTorch · LangGraph · MLflow · Hugging Face Transformers · Scikit-learn · NumPy · Pandas · Matplotlib
 
-**Data Engineering & Backend** &nbsp;·&nbsp; Streamlit · Git · Data Modeling · ETL Pipelines · Power BI · RESTful APIs · Asynchronous Programming · Database Integration
+**Data Engineering & Backend** &nbsp;·&nbsp; Streamlit · Git · Data Modeling · Databricks · PySpark ·ETL Pipelines · Power BI · RESTful APIs · Asynchronous Programming · Database Integration
 
 ---
 
